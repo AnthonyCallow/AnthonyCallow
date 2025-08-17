@@ -1,9 +1,0 @@
-
-title: Anthony Callow — Portfolio
-description: SRE, software development, and projects
-theme: jekyll-theme-minimal
-logo: /assets/img/avatar.png
-show_downloads: false
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
